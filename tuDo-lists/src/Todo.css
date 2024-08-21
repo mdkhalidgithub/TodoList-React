@@ -1,0 +1,28 @@
+.main{
+    background-color: rgb(195, 173, 32);
+    border: 3px solid black;
+    border-radius: 20px;
+    font-weight: 700;
+    font-size: larger;
+}
+button{
+    color: white;
+    background-color: darkgreen;
+    height: 50px;
+    width: 100px;
+    border-radius: 10px;
+    font-weight: 500;
+
+}
+input{
+    height: 60px;
+    width: 300px;
+    border: 2px solid black;
+    border-radius: 20px;
+    color: black;
+}
+
+h4{
+    font-size: larger;
+    font-weight: 600;
+}
